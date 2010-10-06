@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SystemDefinition schema="3.0.0">
- <package id="metadatasrv" name="Legacy Metadata Services" levels="plugin framework server generic specific">
+ <package id="metadatasrv" name="Legacy Metadata Services" version="2.0.0" levels="plugin framework server generic specific">
   <collection id="metadatasrv_pub" name="Legacy Metadata Services Public Interfaces" level="specific">
    <component id="media_fetch_api" name="Media Fetch API" class="api" filter="s60">
     <meta rel="Api" href="metadatasrv_pub/media_fetch_api/media_fetch_api.metaxml"/>

@@ -30,6 +30,7 @@ SOURCE                  MGFetch.cpp
 SOURCE                  mediafetch.cpp
 
 MW_LAYER_SYSTEMINCLUDE
+SMPSAFE
 
 LIBRARY                 euser.lib
 LIBRARY                 ecom.lib
